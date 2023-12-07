@@ -1,9 +1,7 @@
 # Site settings
-title: <i>Bufo bufo</i> project
-email: your-email@domain.com
+title: OSSOBufo
 description: >
-  Pathologie koppelen aan ecologie om wat gewoon is gewoon te houden: 
-  het voorbeeld van de gewone pad (<i>Bufo bufo</i>)
+  Overkoepelende studie naar het samenleven en overleven van BUFO bufo
 lang: nl-NL
 
 baseurl: "/nl/" # the subpath of your site, e.g. /blog/
