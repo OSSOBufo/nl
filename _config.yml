@@ -1,7 +1,7 @@
 # Site settings
 title: OSSOBufo
 description: >
-  Overkoepelende studie naar het samenleven en overleven van BUFO bufo
+  Overkoepelende Studie naar het Samenleven en Overleven van BUFO bufo
 lang: nl-NL
 
 baseurl: "/nl/" # the subpath of your site, e.g. /blog/
