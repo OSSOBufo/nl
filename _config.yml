@@ -6,10 +6,10 @@ description: >
   het voorbeeld van de gewone pad (<i>Bufo bufo</i>)
 lang: nl-NL
 
-baseurl: "/E-Blomme_nl/" # the subpath of your site, e.g. /blog/
-url: https://E-Blomme.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/E-Blomme/E-Blomme_nl
-git_edit_address: https://github.com/E-Blomme/E-Blomme_nl
+baseurl: "/nl/" # the subpath of your site, e.g. /blog/
+url: https://OSSOBufo.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+git_address: https://github.com/OSSOBufo/nl
+git_edit_address: https://github.com/OSSOBufo/nl
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
