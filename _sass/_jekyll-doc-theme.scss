@@ -1,0 +1,134 @@
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    padding-top: $navbar-height + $navbar-margin-bottom;
+    margin-bottom: 46px;
+  }
+  
+  .navbar-brand{
+    img{
+      margin: -$navbar-padding-vertical 0;
+      height: $navbar-height;
+      padding: 10px 0;
+    }
+  }
+  
+  
+  .header-container {
+    background-color: black;
+    background: url('../img/home.JPG') no-repeat 50% 0;
+    color: #fff;
+  
+    h1 {
+      color: #fff;
+    }
+    // background-attachment: fixed;
+    background-size: cover;
+    background-position: center 25%;
+    margin-top: -37px;
+  }
+
+  .sample-container {
+    background-color: black;
+    background: url('../img/field_.jpg') no-repeat 50% 0;
+    color: #fff;
+  
+    h1 {
+      color: #fff;
+    }
+    // background-attachment: fixed;
+    background-size: cover;
+    background-position: center 25%;
+    margin-top: -37px;
+  }
+
+  .researcher-container {
+    background-color: black;
+    background: url('../img/researcher_.jpg') no-repeat 50% 0;
+    color: #fff;
+    width: 100%;
+  
+    h1 {
+      color: #fff;
+    }
+    // background-attachment: fixed;
+    background-size: cover;
+    background-position: center 25%;
+    margin-top: -37px;
+  }
+
+  .articles-container {
+    background-color: black;
+    background: url('../img/team_.jpg') no-repeat 50% 0;
+    color: #fff;
+    width: 100%;
+  
+    h1 {
+      color: #fff;
+    }
+    // background-attachment: fixed;
+    background-size: cover;
+    background-position: center 32%;
+    margin-top: -37px;
+  }
+
+  .navbar-container {
+    font-size: 16px;
+  }
+  .page-content {
+    padding-bottom: 20px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;    
+    padding-top: 10px;
+    background-color: $gray-lighter;
+    color: $gray-dark;
+  }
+  
+  .post-list-container {
+    li a.active {
+      font-weight: bold;
+    }
+  }
+  *[id]:before {
+    display: block;
+    content: " ";
+    margin-top: -75px;
+    height: 75px;
+    visibility: hidden;
+  }
+  .navbar-form .has-feedback .form-control-feedback{
+    top:10px
+  }
+  
+  .article-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 10px;
+}
+
+.article-box {
+    width: 250px;
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
+.article-box img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.article-box a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}

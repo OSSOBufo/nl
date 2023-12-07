@@ -1,0 +1,69 @@
+# Site settings
+title: <i>Bufo bufo</i> project
+email: your-email@domain.com
+description: >
+  Pathologie koppelen aan ecologie om wat gewoon is gewoon te houden: 
+  het voorbeeld van de gewone pad (<i>Bufo bufo</i>)
+lang: nl-NL
+
+baseurl: "/E-Blomme_nl/" # the subpath of your site, e.g. /blog/
+url: https://E-Blomme.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+git_address: https://github.com/E-Blomme/E-Blomme_nl
+git_edit_address: https://github.com/E-Blomme/E-Blomme_nl
+
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+timezone: Europe/Berlin
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _samples
+    type: samples
+  values:
+    layout: sample
+    sectionid: samples
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /artikels/:year/:month/:day/:title/
+    output: true
+  samples:
+    permalink: /:collection/:path/
+    output: true
