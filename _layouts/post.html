@@ -31,7 +31,8 @@ layout: default
                     {% for post in site.posts limit:10 %}
                     <li><a href="{{ post.url | relative_url }}" {% if page.title==post.title %} class="active" {% endif %}>{{ post.title }}</a></li>
                     {% endfor %}
-                    <li><a href="{{ "/allposts" | relative_url }}">Alle artikels ...</a></li>
+                    <li><a href="https://www.natuurpunt.be/publicaties?search_api_views_fulltext=pad">Meer padden publicaties ...</a></li>
+                    <li><a href="{{ "/alle_artikels" | relative_url }}">Alle artikels ...</a></li>
                 </ul>
             </div>
         </div>
@@ -49,7 +50,7 @@ layout: default
             </div>
             <p>{{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
             <div  id="markdown-content-container">{{ content }}
-                <p style="font-size:22px;"><a href="{{page.reference}}">lees meer...</a></p>
+                <p style="font-size:22px;"><a href="{{page.reference}}">Lees meer...</a></p>
             </div>
             <hr>
             <ul class="pager">

@@ -29,7 +29,7 @@ As of the move to support [Github Pages](https://pages.github.com/) a number of 
 - img/
 - js/
 - 404.html
-- allposts.html
+- alle artikels.html
 - search.json
 
 ## Docker
