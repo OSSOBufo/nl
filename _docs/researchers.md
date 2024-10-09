@@ -50,13 +50,16 @@ redirect_from: /docs/researchers.html
 </div>
 
 <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
             <img src="{{site.baseurl}}/assets/img/dries.jpg" alt="" class="img-responsive" width="360" height="350.233">
             <h4>Professor Dries Bonte</h4>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-4">
             <img src="{{site.baseurl}}/assets/img/FemkeProfiel.jpg" alt="" class="img-responsive" width="360" height="350.233">
             <h4>Postdoctoraal onderzoeker Femke Batsleer</h4>
+        </div>
+        <div class="col-sm-4">
+            <h4>Doctoraatsstudent Henri Rommel</h4>
         </div>
     </div>
 
