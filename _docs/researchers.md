@@ -55,7 +55,7 @@ redirect_from: /docs/researchers.html
             <h4>Doctoraatsstudent Eduardo <br/>
             Fernández Meléndez</h4>
     </div>
-<br/>
+</div>
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.ecology.ugent.be/terec/"><img alt="terec" src="{{site.baseurl}}/assets/img/tereclogo.png" width="67" height="50" hspace="30"></a>
