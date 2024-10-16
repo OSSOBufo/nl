@@ -39,14 +39,23 @@ redirect_from: /docs/researchers.html
 
 <div class="row">
         <div class="col-sm-4">
+        <br/>
+        <br/>
         <img src="{{site.baseurl}}/assets/img/Andrea.jpg" alt="" class="img-responsive" width="360" height="350.233">
-            <h4>Doctoraatsstudent Andrea Barbi</h4>
     </div>
     <div class="col-sm-4">
         <img src="{{site.baseurl}}/assets/img/Eduardo.jpg" alt="" width="360" height="350.233">
-            <h4>Doctoraatsstudent Eduardo <br /> Fernández Meléndez</h4>
     </div>
 </div>
+<div class="row">
+        <div class="col-sm-4">
+            <h4>Doctoraatsstudent Andrea Barbi</h4>
+        </div>
+        <div class="col-sm-4">
+            <h4>Doctoraatsstudent Eduardo <br/>
+            Fernández Meléndez</h4>
+    </div>
+<br/>
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.ecology.ugent.be/terec/"><img alt="terec" src="{{site.baseurl}}/assets/img/tereclogo.png" width="67" height="50" hspace="30"></a>
