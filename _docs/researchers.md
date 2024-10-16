@@ -44,7 +44,7 @@ redirect_from: /docs/researchers.html
     </div>
     <div class="col-sm-4">
         <img src="{{site.baseurl}}/assets/img/Eduardo.jpg" alt="" class="img-responsive" width="360" height="350.233">
-            <h4>PhD student Eduardo Fernández \ Meléndez</h4>
+            <h4>PhD student Eduardo Fernández <br /> Meléndez</h4>
     </div>
 </div>
 
