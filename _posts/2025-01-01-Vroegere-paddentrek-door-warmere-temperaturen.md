@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Consistent phenological advancement of Common Toad migration in response to climate change in Flanders, Belgium
+date:   2025-01-01
+author: Ellen Blomme, Femke Batsleer, Hans Matheve, Dominique Verbelen, An Martel, Siska Croubels, Frank Pasmans and Dries Bonte
+reference: https://doi.org/10.1163/15685381-bja10207
+logo: /assets/img/brill.png
+---
+
+<p style="font-size:18px;"> Veel soorten gebruiken temperatuur als een signaal om bepaalde levensgebeurtenissen te timen. Zulke fenologische gebeurtenissen kunnen bijzonder gevoelig zijn voor klimaatverandering. Bij amfibieën zijn seizoensgebonden migratiegebeurtenissen tussen vijvers en winterhabitats cruciaal om de voortplanting te verzekeren. Daarom kunnen verschuivingen in fenologische gebeurtenissen – fenologische verschuivingen genoemd – de persistentie van amfibieënpopulaties aanzienlijk beïnvloeden, vooral wanneer ze worden veroorzaakt door klimaatverandering. We gebruikten burgerwetenschappelijke gegevens verzameld tijdens de voorjaarstrek van de gewone pad (<i>Bufo bufo</i>) van 1981 tot 2020 om: (i) de fenologische verschuiving te schatten, (ii) de consistentie van deze veranderingen binnen de bestudeerde regio te bepalen en (iii) de temporele variatie ervan te relateren aan veranderingen in temperatuur. De resultaten lieten een vooruitgang zien in de piekmigratie van 3,1 dagen per decennium. Deze verschuiving was consistent over alle populaties in Vlaanderen, wat duidt op een regionaal effect dat hoogstwaarschijnlijk te wijten is aan klimaatverandering. Deze redenering wordt ondersteund door het op temperatuur gebaseerde model, dat aangeeft dat eerdere migratie plaatsvindt in warmere jaren. Niettemin blijven er aanzienlijke lokale variaties bestaan ​​in de timing van de voorjaarstrek. Onze resultaten benadrukken hoe belangrijk het is om de timing van de voorjaarstrek en de variabiliteit ervan gedetailleerd te bestuderen. Dit kan namelijk inzicht verschaffen in de mechanismen die ten grondslag liggen aan trends in populatieafname op zowel nationale als internationale schaal.
+ </p>
